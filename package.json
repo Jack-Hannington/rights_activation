@@ -1,18 +1,18 @@
 {
-  "name": "sergey-netlify",
-  "version": "1.0.0",
-  "description": "A Sergey example project, ready for Netlify",
-  "private": true,
-  "main": "index.js",
-  "scripts": {
-    "start": "sergey",
-    "dev": "sergey --watch"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "netlify-cms": "^2.10.52",
-    "sergey": "0.0.13"
-  }
+    "name": "rights_activation",
+    "version": "1.0.0",
+    "description": "Rights Activation",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "sergey",
+        "dev": "sergey --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "netlify-cms": "^2.10.52",
+        "sergey": "0.0.13"
+    }
 }
